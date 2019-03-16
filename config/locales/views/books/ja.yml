@@ -11,3 +11,5 @@
         description: 商品の説明
         edit: 編集
         return: 戻る
+      edit:
+        title: 書籍更新
