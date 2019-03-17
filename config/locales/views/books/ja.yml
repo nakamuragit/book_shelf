@@ -18,5 +18,16 @@
         chancel: キャンセル
       edit:
         title: 書籍更新
+      form:
+        include_blank: カテゴリーを選択して下さい
       index:
         price_yen: "¥%{price}"
+      user:
+        email: メールアドレス
+        nick_name: ニックネーム
+        avatar: プロフィール画像
+        password: パスワード
+        remember_me: ログイン情報を記録する
+      errors:
+        messages:
+          record_invalid: "バリデーションに失敗しました: %{errors}"
