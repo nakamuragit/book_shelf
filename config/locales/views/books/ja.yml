@@ -16,6 +16,7 @@
         question_book: "%{book}を削除しますか？"
         delete_action: 削除する
         chancel: キャンセル
+        review_new: レビューを投稿する
       edit:
         title: 書籍更新
       form:
